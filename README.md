@@ -5,3 +5,4 @@ FaceNet learns a neural network that encodes a face image into a vector of 128 n
 Implemented the triplet loss function
 Used a pretrained model to map face images into 128-dimensional encodings
 Used these encodings to perform face verification and face recognition
+Note the accuracy
